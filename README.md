@@ -16,9 +16,6 @@ OR
 
 Install from BApp store.
 
-![POC](https://github-production-user-asset-6210df.s3.amazonaws.com/23627154/246598374-57f92290-73fb-4403-949e-b2230e93bd2e.gif)
-
-
 Please note that it is necessary to have Jython installed in order to use this plugin. If you do not have Jython installed, you can download it from the official website (http://www.jython.org/) and follow the instructions for installation.
 
 ## Feedback
