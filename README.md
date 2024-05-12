@@ -1,7 +1,7 @@
-# JSON Beautifier Burp Suite plugin
+# JSON Beautifier Burp Suite Extension
 Version 1.0
 
-The JSON Beautifier Burp Suite plugin simplifies the process of Beautifier JSON payloads for pentesters, as there is no built-in option for this in Burp. This is especially true when working with JSON payloads and trying to ensure that they are properly Beautifier to prevent errors. It eliminates the need for manual escaping and ensures proper formatting for testing. With its simple interface, the plugin enables you to enter your payload, escape it, and display the result in a JTextArea where you can select and copy the text
+The JSON Beautifier Burp Suite extension simplifies the process of Beautifier JSON payloads for pentesters, as there is no built-in option for this in Burp. This is especially true when working with JSON payloads and trying to ensure that they are properly Beautifier to prevent errors. It eliminates the need for manual escaping and ensures proper formatting for testing. With its simple interface, the plugin enables you to enter your payload, escape it, and display the result in a JTextArea where you can select and copy the text
 
 ## How to Use
 1. Download the plugin [JSON-Beautifier.py](https://raw.githubusercontent.com/BugHunter021/JSON-Beautifier-Burp-Extension/main/JSON-Beautifier.py)
